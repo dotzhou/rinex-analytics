@@ -243,6 +243,6 @@ class Content extends React.Component {
 }
 
 export default scriptLoader(
-    ["https://maps.googleapis.com/maps/api/js?key=AIzaSyCZfdopaFa7cctFnEWxT-2NElXXUzdDvWI"]
+    ["https://maps.googleapis.com/maps/api/js?key=Your-Key"]
 )(Content)
 
